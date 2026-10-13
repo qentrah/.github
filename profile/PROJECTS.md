@@ -8,7 +8,7 @@ Software and project source from [Qentrah](https://github.com/qentrah), [Ahmed M
 
 | Project | What it does |
 | --- | --- |
-| [Qesh](https://github.com/qentrah/qesh) | Qentrah Shell — a clean macOS terminal workspace with real shells, tabs, groups, and resizable split panes. |
+| [QH](https://github.com/qentrah/qh) | QH — a clean macOS terminal workspace with real shells, tabs, groups, and resizable split panes. |
 | [Kyna](https://github.com/qentrah/Kyna) | Kyna programming language |
 | [Kyna Music](https://github.com/qentrah/kyna-music) | Native desktop music player built with Kyna, Qt Quick and typed C++ bindings |
 | [DUI](https://github.com/qentrah/DUI) | Open-source React components and shadcn registry with TypeScript, Tailwind CSS, and RTL support |
@@ -305,13 +305,13 @@ Forks remain credited to their upstream maintainers. Read the upstream documenta
 
 ## Use the project CLI
 
-Qesh includes `qh` for project discovery, installation, source checkouts, forks, and bug reports.
+QH includes `qh` for project discovery, installation, source checkouts, forks, and bug reports.
 
 ```sh
 qh projects
-qh clone qesh
-qh fork qesh
-qh bug qesh
+qh clone qh
+qh fork qh
+qh bug qh
 ```
 
-[Install the standalone CLI and read its commands](https://github.com/qentrah/qesh/tree/main/packages/qh). Forks and issue submission require GitHub CLI authentication.
+[Install the standalone CLI and read its commands](https://github.com/qentrah/qh/tree/main/packages/qh). Forks and issue submission require GitHub CLI authentication.

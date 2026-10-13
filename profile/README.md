@@ -19,7 +19,7 @@ Qentrah brings together software and open-source work by [Ahmed Mansour](https:/
 
 | Project | What it does | Explore |
 | --- | --- | --- |
-| **[Qesh](https://github.com/qentrah/qesh)** | A macOS terminal workspace with real shells, tabs, split sessions, themes, and locally saved layouts. | [Overview](https://qentrah.com/qesh) · [Downloads](https://github.com/qentrah/qesh/releases/latest) · [Docs](https://qentrah.com/docs/qesh/overview) |
+| **[QH](https://github.com/qentrah/qh)** | A macOS terminal workspace with real shells, tabs, split sessions, themes, and locally saved layouts. | [Overview](https://github.com/qentrah/qh#readme) · [Downloads](https://github.com/qentrah/qh/releases/latest) · [Docs](https://github.com/qentrah/qh#configuration) |
 | **[Kyna](https://github.com/qentrah/Kyna)** | A programming language for building applications. | [Source & getting started](https://github.com/qentrah/Kyna#readme) |
 | **[Kyna Music](https://github.com/qentrah/kyna-music)** | A native desktop music player built with Kyna, Qt Quick, and typed C++ bindings. | [Source & setup](https://github.com/qentrah/kyna-music#readme) |
 | **[DUI](https://github.com/qentrah/DUI)** | React components distributed as source through a shadcn registry, with TypeScript, Tailwind CSS, and RTL support. | [Website](https://dui.qentrah.com) · [Installation](https://github.com/qentrah/DUI#install) |
@@ -42,18 +42,18 @@ Qentrah brings together software and open-source work by [Ahmed Mansour](https:/
 Use **`qh`** to discover projects, install published CLIs, clone or fork source, and report bugs:
 
 ```sh
-npm install --global https://github.com/qentrah/qesh/releases/latest/download/qentrah-qh.tgz
+npm install --global https://github.com/qentrah/qh/releases/latest/download/qentrah-qh.tgz
 # Or use Bun:
-bun add --global https://github.com/qentrah/qesh/releases/latest/download/qentrah-qh.tgz
+bun add --global https://github.com/qentrah/qh/releases/latest/download/qentrah-qh.tgz
 
 qh projects
 qh install Kyna --manager bun
-qh clone qesh
-qh fork qesh
-qh bug qesh
+qh clone qh
+qh fork qh
+qh bug qh
 ```
 
-Qesh users already have `qh`; update the existing installation instead of installing another launcher. Git is required for source checkouts. Forks and bug reports use [GitHub CLI](https://cli.github.com/) and `gh auth login`. [Read the CLI guide](https://github.com/qentrah/qesh/tree/main/packages/qh) for dry runs, package managers, source builds, and issue options.
+QH users already have `qh`; update the existing installation instead of installing another launcher. Git is required for source checkouts. Forks and bug reports use [GitHub CLI](https://cli.github.com/) and `gh auth login`. [Read the CLI guide](https://github.com/qentrah/qh/tree/main/packages/qh) for dry runs, package managers, source builds, and issue options.
 
 ### Contribute
 
