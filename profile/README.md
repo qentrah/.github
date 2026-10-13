@@ -26,6 +26,8 @@ Qentrah brings together software and open-source work by [Ahmed Mansour](https:/
 | **[QChat](https://github.com/qentrah/qchat)** | A generative UI compiler and React chat runtime for connecting agent frameworks to a versioned UI schema. | [Source & docs](https://github.com/qentrah/qchat#readme) |
 | **[Sater](https://github.com/qentrah/sater)** | An Arabic-first developer environment built on Code - OSS. | [Source & setup](https://github.com/qentrah/sater#readme) |
 
+[Browse the complete public source directory](./PROJECTS.md), including applications, developer tools, and credited upstream forks.
+
 ### More from Qentrah
 
 - **[Knowledge Workspace](https://github.com/qentrah/knowledge-workspace)** — a Next.js workspace for capturing sources and working with AI agents.
@@ -54,3 +56,7 @@ Qesh users already have `qh`; update the existing installation instead of instal
 ### Contribute
 
 Each repository has its own setup instructions and license. Start with its README, browse the issues, and open an issue or pull request in the relevant project. For product guides and the wider catalog, visit [qentrah.com](https://qentrah.com).
+
+### Across GitHub
+
+[Ahmed Mansour](https://github.com/Up-to-code) · [UpToCodeJS](https://github.com/uptocodejs) · [Public source directory](./PROJECTS.md)
