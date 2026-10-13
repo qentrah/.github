@@ -30,6 +30,8 @@ Qentrah brings together software and open-source work by [Ahmed Mansour](https:/
 
 ### More from Qentrah
 
+- **[QH Pixels](https://github.com/qentrah/qh-pixels)** — agent-authored pixel animation with a preview studio, local MCP, and a free motion pack. [Setup & guides](https://qentrah.com/docs/qh-pixels/overview).
+
 - **[Knowledge Workspace](https://github.com/qentrah/knowledge-workspace)** — a Next.js workspace for capturing sources and working with AI agents.
 - **[AI Vision Engine](https://github.com/qentrah/ai-vision-engine)** — a local computer vision project covering tracking, OCR, pose, depth, and segmentation.
 - **[Qentrah Languages](https://github.com/qentrah/qentrah-languages)** — a multilingual WordPress plugin with native editing and versioned builds.

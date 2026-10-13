@@ -14,6 +14,7 @@ Software and project source from [Qentrah](https://github.com/qentrah), [Ahmed M
 | [DUI](https://github.com/qentrah/DUI) | Open-source React components and shadcn registry with TypeScript, Tailwind CSS, and RTL support |
 | [QChat](https://github.com/qentrah/qchat) | Generative UI compiler and React chat runtime for agent frameworks and versioned UI schemas |
 | [Sater](https://github.com/qentrah/sater) | An Arabic-first developer environment built on Code - OSS |
+| [QH Pixels](https://github.com/qentrah/qh-pixels) | Agent-authored pixel animation with a preview studio, local MCP, SQLite revisions, and PNG, GIF, JSON, and MP4 exports. |
 | [QH Motion Studio](https://github.com/Up-to-code/QH-Motion-Studio) | Local layered raster animation studio with a mathematical rig engine, CLI, and agent skill. |
 | [DodoMath 🟣](https://github.com/Up-to-code/DodoMath) | Step-by-step mathematics learning with 193 video lessons, guided exams, story puzzles, and interactive graphs. |
 | [Gogoiy](https://github.com/Up-to-code/Gogoiy) | An iOS block-placement puzzle built with SwiftUI and SpriteKit. |
