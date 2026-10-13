@@ -28,23 +28,23 @@ Each repository documents its own setup and license. Source availability does no
 | Project | What it does |
 | --- | --- |
 | [Clerk Authentication App](https://github.com/qentrah/Custom-clerk-auth-system) | Authentication application built with Clerk and Next.js. |
-| [Code Review](https://github.com/qentrah/skill-code-review) | A Qentrah agent skill. |
-| [Content Design](https://github.com/qentrah/skill-content-design) | A Qentrah agent skill. |
-| [Design Critique](https://github.com/qentrah/skill-design-critique) | A Qentrah agent skill. |
+| [Code Review](https://github.com/qentrah/skill-code-review) | Agent skill for reviewing correctness, maintainability, and operational risks in code changes. |
+| [Content Design](https://github.com/qentrah/skill-content-design) | Agent skill for writing clear, consistent interface copy that is ready for translation. |
+| [Design Critique](https://github.com/qentrah/skill-design-critique) | Agent skill for reviewing interfaces against product goals, accessibility, and design consistency. |
 | [Desktop New Tab](https://github.com/qentrah/desktop-new-tab) | A macOS-style Chrome new tab for folders, links, and desktop widgets. |
 | [Etjah](https://github.com/qentrah/ETJAH_APP) | Next.js application with authentication, Prisma data models, and email templates. |
 | [K Store](https://github.com/qentrah/K-store-V_1.2) | Expo and Firebase application source with navigation, screens, and shared components. |
 | [kyna-code/use-device](https://github.com/qentrah/use-device) | Reactive Expo hook for window, platform, locale, direction, and color scheme |
 | [MySocials](https://github.com/qentrah/MySocials) | A personal link hub for social profiles, content, and contact information. |
 | [Nexfiy](https://github.com/qentrah/nexfiy-com) | A notes and documents workspace with Convex, Better Auth, file uploads, and MCP connections. |
-| [Qentrah Architecture Guardian](https://github.com/qentrah/skill-architecture-guardian) | Qentrah architecture guidance for scalable, organization-rooted systems. |
+| [Qentrah Architecture Guardian](https://github.com/qentrah/skill-architecture-guardian) | Agent skill for reviewing domain interfaces, database design, and backend ownership. |
 | [Qentrah Languages — 0.2.0 preview](https://github.com/qentrah/qentrah-languages) | Qentrah local-first multilingual WordPress plugin with native editing and versioned release builds |
 | [React messenger](https://github.com/qentrah/react-messenger) | Chat UX components built with React, inspired by Facebook Messenger |
-| [Release Readiness](https://github.com/qentrah/skill-release-readiness) | A Qentrah agent skill. |
-| [Repository Guide](https://github.com/qentrah/skill-repository-guide) | A Qentrah agent skill. |
+| [Release Readiness](https://github.com/qentrah/skill-release-readiness) | Agent skill for checking release metadata, routing, performance, and deployment readiness. |
+| [Repository Guide](https://github.com/qentrah/skill-repository-guide) | Agent skill for navigating DUI source, registry, and documentation responsibilities. |
 | [Start Expo Kit](https://github.com/qentrah/start-expo-kit) | Expo authentication starter connected to the Start Kit backend. |
 | [Start Kit](https://github.com/qentrah/start-kit) | Next.js starter with Better Auth, database models, and reusable interface components. |
-| [UI Implementation](https://github.com/qentrah/skill-ui-implementation) | A Qentrah agent skill. |
+| [UI Implementation](https://github.com/qentrah/skill-ui-implementation) | Agent skill for implementing responsive React interfaces with LTR and RTL support. |
 | [WhatsApp Business API Handler - Complete Documentation](https://github.com/qentrah/WhatsApp-Meta-Business-API-Handler) | A lightweight, easy-to-use TypeScript wrapper for WhatsApp Cloud API. Send messages, media, buttons, and more with full type safety. |
 
 ## Applications, tools, and source studies
