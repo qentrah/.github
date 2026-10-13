@@ -19,7 +19,7 @@ Qentrah brings together software and open-source work by [Ahmed Mansour](https:/
 
 | Project | What it does | Explore |
 | --- | --- | --- |
-| **[QH](https://github.com/qentrah/qh)** | A macOS terminal workspace with real shells, tabs, split sessions, themes, and locally saved layouts. | [Overview](https://github.com/qentrah/qh#readme) · [Downloads](https://github.com/qentrah/qh/releases/latest) · [Docs](https://github.com/qentrah/qh#configuration) |
+| **[QH](https://github.com/qentrah/qh)** | A macOS terminal workspace with real shells, tabs, split sessions, themes, and locally saved layouts. | [Overview](https://qentrah.com/qh) · [Downloads](https://github.com/qentrah/qh/releases/latest) · [Docs](https://qentrah.com/docs/qh/overview) |
 | **[Kyna](https://github.com/qentrah/Kyna)** | A programming language for building applications. | [Source & getting started](https://github.com/qentrah/Kyna#readme) |
 | **[Kyna Music](https://github.com/qentrah/kyna-music)** | A native desktop music player built with Kyna, Qt Quick, and typed C++ bindings. | [Source & setup](https://github.com/qentrah/kyna-music#readme) |
 | **[DUI](https://github.com/qentrah/DUI)** | React components distributed as source through a shadcn registry, with TypeScript, Tailwind CSS, and RTL support. | [Website](https://dui.qentrah.com) · [Installation](https://github.com/qentrah/DUI#install) |
