@@ -33,6 +33,24 @@ Qentrah brings together software and open-source work by [Ahmed Mansour](https:/
 - **[Qentrah Languages](https://github.com/qentrah/qentrah-languages)** — a multilingual WordPress plugin with native editing and versioned builds.
 - **[Agent Skills](https://github.com/qentrah/skills)** — the registry and installer for Qentrah’s reusable agent skills.
 
+### Qentrah from your terminal
+
+Use **`qh`** to discover projects, install published CLIs, clone or fork source, and report bugs:
+
+```sh
+npm install --global https://github.com/qentrah/qesh/releases/latest/download/qentrah-qh.tgz
+# Or use Bun:
+bun add --global https://github.com/qentrah/qesh/releases/latest/download/qentrah-qh.tgz
+
+qh projects
+qh install Kyna --manager bun
+qh clone qesh
+qh fork qesh
+qh bug qesh
+```
+
+Qesh users already have `qh`; update the existing installation instead of installing another launcher. Git is required for source checkouts. Forks and bug reports use [GitHub CLI](https://cli.github.com/) and `gh auth login`. [Read the CLI guide](https://github.com/qentrah/qesh/tree/main/packages/qh) for dry runs, package managers, source builds, and issue options.
+
 ### Contribute
 
 Each repository has its own setup instructions and license. Start with its README, browse the issues, and open an issue or pull request in the relevant project. For product guides and the wider catalog, visit [qentrah.com](https://qentrah.com).
